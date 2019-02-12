@@ -9,7 +9,7 @@ import torch.nn as nn
 from torch import optim
 
 from eval import eval_net
-from unet import UNet
+from model import U-Net
 from utils import get_ids, split_ids, split_train_val, get_imgs_and_masks, batch
 
 def train_net(net,
