@@ -16,7 +16,7 @@ C++ 11
 
 Python 3.6
 
-# Setup/Installation Guide ( need to update by Bogdan)
+# Setup/Installation Guide
 OS: Ubunto 16.04 
 
 `wget https://github.com/alicevision/meshroom/releases/download/v2018.1.0/Meshroom-2018.1.0-linux.tar.gz`
@@ -33,4 +33,5 @@ OS: Ubunto 16.04
 # Guide to Run the API/OUTPUT
  TODO: Need to create run bash script 
 
+run like `bash run.bash YourVideoName.mp4`
 ..
