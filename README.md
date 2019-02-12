@@ -15,6 +15,6 @@ Python 3.6
 # Setup/Installation Guide ( need to update by Bogdan)
 
 # Guide to Run the API/OUTPUT
-# [checkbox:unchecked] TODO: Need to create run bash script 
+[checkbox:unchecked] TODO: Need to create run bash script 
 
 ..
